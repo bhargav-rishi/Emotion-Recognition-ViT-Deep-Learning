@@ -3,7 +3,7 @@
 ![Language](https://img.shields.io/badge/Language-Python-orange)
 ![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
 
-This project applies deep learning to classify emotions based on audio input. Audio recordings are first converted into mel spectrogram images, which are then used as input to a fine-tuned Vision Transformer (ViT) model. The pipeline includes data preprocessing, model training with hyperparameter tuning via Optuna, performance evaluation, and real-world testing on natural vs acted speech samples. This project was developed as part of the Deep Learning course at the University of South Florida - Muma College of Business
+This project applies deep learning to classify emotions based on audio input. Audio recordings are first converted into mel spectrogram images, which are then used as input to a fine-tuned **Vision Transformer (ViT)** model. The pipeline includes data preprocessing, model training with hyperparameter tuning via **Optuna**, performance evaluation, and **real-world testing on natural vs acted speech samples**. This project was developed as part of the Deep Learning course at the **University of South Florida – Muma College of Business**.
 
 ---
 
