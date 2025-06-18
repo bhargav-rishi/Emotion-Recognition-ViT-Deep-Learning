@@ -1,4 +1,4 @@
-# Emotion Recognition from Speech using Vision Transformer (ViT) - Deep Learning
+# Emotion Recognition from Speech using Vision Transformer (ViT) – Deep Learning Project
 ![Built With](https://img.shields.io/badge/Built%20With-Python%20%7C%20PyTorch%20%7C%20Transformers%20%7C%20Deep%20Learning-blue)
 ![Language](https://img.shields.io/badge/Language-Python-orange)
 ![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
