@@ -75,3 +75,10 @@ Emotion-Recognition-ViT-Deep-Learning/
 ├── DL_Individual_Project.ipynb
 ├── README.md
 ```
+
+---
+
+## Author
+
+**Bhargav Rishi Medisetti**  
+Muma College of Business – University of South Florida
