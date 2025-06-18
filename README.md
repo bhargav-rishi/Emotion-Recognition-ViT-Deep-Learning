@@ -19,15 +19,10 @@ This project applies deep learning to classify emotions based on audio input. Au
 
 ---
 
-## Repository Structure
+## Dataset Overview
+This project uses the RAVDESS (Ryerson Audio-Visual Database of Emotional Speech and Song), a public dataset containing speech recordings by professional actors expressing a range of emotions.
 
-```
-Emotion-Recognition-ViT-Deep-Learning/
-├── DL_Individual_Project.ipynb
-├── README.md
-```
-
-
+Dataset Source: https://www.kaggle.com/datasets/uwrfkaggler/ravdess-emotional-speech-audio
 
 ---
 
@@ -70,3 +65,13 @@ Confusion matrix and classification report are available inside the notebook.
 ---
 
 Built using PyTorch and Hugging Face Transformers.
+
+---
+
+## Repository Structure
+
+```
+Emotion-Recognition-ViT-Deep-Learning/
+├── DL_Individual_Project.ipynb
+├── README.md
+```
